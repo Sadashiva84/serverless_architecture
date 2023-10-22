@@ -40,6 +40,7 @@ def lambda_handler(event, context):
 ```
 
 Q2:
+![create_bucket](images/rams-stash.png)
 
 ```python
 import json
@@ -122,3 +123,5 @@ def lambda_handler(event, context):
         }
     }
 ```
+
+Q4:
